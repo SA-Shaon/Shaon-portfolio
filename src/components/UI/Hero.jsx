@@ -30,7 +30,7 @@ const Hero = () => {
               className="flex items-center gap-6 mt-7"
             >
               <a
-                href="https://drive.google.com/file/d/1pIPJc2F5bFUovF0cIiTov0_tiYzHuECG/view?usp=sharing"
+                href="https://drive.google.com/file/d/1HCHPqydcyBCSLSbfm6lcyhHMdLcHgnOA/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >

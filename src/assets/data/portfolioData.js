@@ -12,6 +12,7 @@ import emaJohn from "../images/ema-john.png";
 import football from "../images/football.png";
 import foodNetwork from "../images/food-network.png";
 import appPipe from "../images/APP-pipe.png";
+import materialUI from "../images/material-ui-dashboard.png";
 
 const portfolios = [
   {
@@ -40,6 +41,16 @@ const portfolios = [
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["HTML", "CSS3"],
     siteUrl: "https://sa-shaon.github.io/Apppipe-mobile-app/",
+  },
+  {
+    id: "18",
+    imgUrl: materialUI,
+    category: "Web Design",
+    title: "Material UI Dashboard",
+    description:
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
+    technologies: ["ReactJS", "SASS", "Material UI"],
+    siteUrl: "https://material-ui-dashboard-delta.vercel.app/",
   },
   {
     id: "07",
